@@ -1,4 +1,4 @@
-FROM ubuntu:focal-20230301
+FROM public.ecr.aws/ubuntu/ubuntu:focal
 LABEL authors="Selenium <selenium-developers@googlegroups.com>"
 
 #================================================
